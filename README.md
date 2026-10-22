@@ -1,39 +1,32 @@
-﻿<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
-</p>
-
-<h1 align="center">Patrik Santi</h1>
-
-<h3 align="center">Engenharia de Software | Criação e Arquitetura de Sistemas</h3>
+﻿<h1 align="center">Patrik Santi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=C9D1D9&center=true&vCenter=true&width=750&height=50&lines=+%3E+Estudante+de+Engenharia+de+Software;+%3E+Desenvolvimento+de+Sistemas+Robustos;+%3E+Arquitetura+Limpa+%26+Codigo+Escalavel;+%3E+TypeScript%2C+React%2C+Next.js%2C+Python" alt="Apresentação" />
+  <strong>Estudante de Engenharia de Software &bull; Foco em Criação e Arquitetura de Sistemas</strong>
 </p>
 
 <p align="center">
-  Desenvolvimento focado em sistemas de alto desempenho, arquitetura limpa e soluções sólidas para problemas reais.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=720&height=35&lines=Desenvolvimento+de+Sistemas+Escalaveis;Arquitetura+Limpa+%26+Codigo+Sustentavel;TypeScript%2C+React%2C+Next.js%2C+Python%2C+Node.js" alt="Foco de Atuação" />
+</p>
+
+<p align="center">
+  Construção de aplicações robustas com foco em engenharia de software, separação clara de responsabilidades e alto padrão técnico.
 </p>
 
 ---
 
-## <h2 align="center">Sobre Mim</h2>
+### Sobre
 
-<img align="right" src="./assets/astro.png" width="260" alt="Ilustração"/>
+Graduando em **Engenharia de Software**, com foco prático no desenvolvimento de sistemas completos, modelagem de dados e arquitetura de software escalável.
 
-Graduando em **Engenharia de Software**, com foco em engenharia de sistemas, microsserviços, APIs e soluções completas ponta a ponta.
+Atuação centrada no ecossistema moderno com **TypeScript, JavaScript, React, Next.js, Python e Node.js**:
 
-Atuação prática focada no ecossistema moderno de desenvolvimento: **TypeScript, JavaScript, React, Next.js e Python**, priorizando código sustentável, separação de responsabilidades e alta manutenibilidade.
-
-**Pilares de atuação:**
-- **Engenharia de Sistemas:** Criação de arquiteturas modulares, resilientes e orientadas ao domínio (Domain-Driven).
-- **Desenvolvimento Full-Stack:** Construção de interfaces funcionais e APIs RESTful estruturadas.
-- **Persistência e Infraestrutura:** Modelagem de dados com PostgreSQL, SQLite, conteinerização com Docker e fluxo de trabalho Git.
-
-<br clear="right"/>
+- **Engenharia de Sistemas:** Desenvolvimento estruturado com foco em estabilidade, regras de negócio bem definidas e código manutenível.
+- **Padrões & Boas Práticas:** Aplicação de princípios SOLID, Clean Architecture e modularidade.
+- **Dados & Infraestrutura:** Bancos de dados relacionais com PostgreSQL e SQLite, conteinerização com Docker e versionamento com Git.
 
 ---
 
-<h2 align="center">Tecnologias e Ferramentas</h2>
+### Tecnologias e Ferramentas
 
 <p align="center">
   <!-- Linguagens Core -->
@@ -72,29 +65,7 @@ Atuação prática focada no ecossistema moderno de desenvolvimento: **TypeScrip
 
 ---
 
-<h2 align="center">Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=patriksanti&theme=city_lights&hide_border=false&border_radius=5" height="150" alt="Sequência de Contribuições" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patriksanti&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br" height="150" alt="Estatísticas Gerais" />
-</div>
-
----
-
-<h2 align="center">Gráfico de Atividade</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patriksanti&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Gráfico de Atividades"/>
-</p>
-
----
-
-<h2 align="center">Contato Profissional</h2>
+### Contato
 
 <p align="center">
   <a href="https://linkedin.com/in/patriksanti" target="_blank">
