@@ -1,4 +1,4 @@
-﻿<h1 align="center">Patrik Santi</h1>
+﻿<h1 align="center">Patrick Santiago</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia de Software &bull; Foco em Criação e Arquitetura de Sistemas</strong>
